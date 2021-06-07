@@ -1,9 +1,9 @@
-# Prediction using Supervised ML
+# Project of Data Science and Business Analytics Intern
 
 Name: VRUSHABH RODE
 
 Linkedin: linkedin.com/in/vrushabh-rode-35a84415a
 
-Task #1: Predict the percentage of a student based on the no. of study hours.
+
 
 
