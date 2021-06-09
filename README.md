@@ -1,4 +1,4 @@
-# Project of Data Science and Business Analytics Intern
+# Data Science and Business Analytics Intern
 
 Name: VRUSHABH RODE
 
